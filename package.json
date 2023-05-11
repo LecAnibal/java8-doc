@@ -1,0 +1,19 @@
+{
+  "name": "java8-sngular",
+  "version": "0.0.1",
+  "description": "documentation for new team members",
+  "main": "index.js",
+  "authors": {
+    "name": "Anibal Santiago Morales ",
+    "email": "anibal.santiago@sngular.com"
+  },
+  "repository": "/java8-sngular",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
